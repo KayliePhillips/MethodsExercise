@@ -63,7 +63,7 @@ namespace MethodExercise
             return num1 % num2;
         }
 
-        //Step 8 Bonus: Change the functions to us the params keyword to support a range of arguements.
+        //Step 8 Bonus: Change the functions to use the params keyword to support a range of arguements.
 
         public static int AddParams(params int[] parameterArrayNumbers)
         {
