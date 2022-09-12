@@ -1,4 +1,4 @@
-﻿//C# Variables Exercise from TrueCoders portal
+﻿//C# Method Exercise from TrueCoders portal
 //Record user input for Name, Favorite Color, Favorite Animal, Favorite Number
 // Part c -- *Bonus* Abstract away the code into methods and call them in your main
 using MethodExercise;
