@@ -15,7 +15,7 @@ Console.Write($"Addition answer: ");
 Console.WriteLine(Method.Add(5, 5));
 
 
-//Subtract
+//Subtract 
 Console.Write($"Subtraction answer: ");
 Console.WriteLine(Method.Subtract(10, 5, 4));
 
@@ -33,8 +33,8 @@ Console.WriteLine(Method.Modulus(42, 5));
 
 
 Console.WriteLine("----------------------------Bonus Step 8----------------------------------");
-//Change the functions to us the params keyword to support a range of arguements.
-//Add() methhod that takes as many arguements as needed
+//Change the functions to use the params keyword to support a range of arguements.
+//Add() methhod that takes as many arguements as needed. 
 
 //a. Sum(2,4) would return 6.  
 Console.Write($"Sum(2,4) answer: ");
